@@ -103,7 +103,7 @@ history = model.fit(xs, ys, epochs=100, verbose=1)
 
 ![img](https://drive.google.com/uc?id=1m9Mbc4OUORwL8fkqsx__SotP0g9WmvdH)
 
-모델을 fit하여 나온 결과입니다. accuracy는 최종적으로 0.93정도의 accuracy를 보여줍니다.
+모델을 fit하여 나온 결과입니다. 최종적으로 0.93정도의 accuracy를 보여줍니다.
 
 ### 5) 훈련된 모델을 적용하여 seed text에 대한 다음 단어들 예측하기
 
