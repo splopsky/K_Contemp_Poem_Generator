@@ -191,7 +191,7 @@ print('\n'.join(result))
 
 ## 참고
 
-- TensorFlow - Natural Language Processing (NLP) Zero to Hero 中
+- [TensorFlow - Natural Language Processing (NLP) Zero to Hero 中](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
 
   - [Training an AI to create poetry (NLP Zero to Hero - Part 6) - YouTube](https://www.youtube.com/watch?v=ZMudJXhsUpY&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=6)
 
