@@ -195,6 +195,4 @@ print('\n'.join(result))
 
   - [Training an AI to create poetry (NLP Zero to Hero - Part 6) - YouTube](https://www.youtube.com/watch?v=ZMudJXhsUpY&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&index=6)
 
-  - [https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/Course%203%20-%20Week%204%20-%20Lesson%202%20-%20Notebook.ipynb](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow In Practice/Course 3 - NLP/Course 3 - Week 4 - Lesson 2 - Notebook.ipynb)
-
 - [07) 케라스(Keras) 훑어보기 - 딥 러닝을 이용한 자연어 처리 입문 (wikidocs.net)](https://wikidocs.net/32105)
